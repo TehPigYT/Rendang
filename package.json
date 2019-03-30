@@ -4,7 +4,7 @@
   "description": "Rendang Discord BOT",
   "main": "index.js",
   "engines": {
-    "node": "10.x",
+    "node": "10.14.0",
     "npm": "6.4.1"
   },
   "scripts": {
